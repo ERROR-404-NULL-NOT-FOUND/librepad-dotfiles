@@ -1,0 +1,3 @@
+[submodule "Waybar-Hyprland"]
+	path = Waybar-Hyprland
+	url = https://github.com/r-clifford/Waybar-Hyprland
